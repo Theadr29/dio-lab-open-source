@@ -1,15 +1,15 @@
 <h1 align="center">Hello 👋, I'm [Adriano Almeida]</h1>
 <h3 align="center">Passionate Android Developer exploring the world of modern app development!</h3>
 
-- 🔭 I’m currently working on [Your Current Project](https://github.com/Theadr29/dio-lab-open-source)
+- 🔭 I’m currently working on [DIO LAB](https://github.com/Theadr29/dio-lab-open-source)
 
 - 🌱 I’m currently learning **Kotlin, Jetpack Compose, Retrofit, and Room SQLite**
 
-- 👯 I’m looking to collaborate on [Open Source Projects](https://github.com/Theadr29)
+- 👯 I’m looking to collaborate on [My GitHub](https://github.com/Theadr29)
 
 - 💬 Ask me about **Android Development, Kotlin, Jetpack Compose, Retrofit, Room SQLite**
 
-- 📫 How to reach me: [Email](adriano-almeidasantos@hotmail.com)
+- 📫 How to reach me: [adriano-almeidasantos@hotmail.com](adriano-almeidasantos@hotmail.com)
 
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/adriano-almeida-dos-santos-134595222/)
 
